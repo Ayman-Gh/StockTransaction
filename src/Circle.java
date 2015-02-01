@@ -1,4 +1,6 @@
 //Ayman Alghamdi
+
+//OK. Ozgur Aktunc
 public class Circle {
 
 	public static void main(String[] args) {
