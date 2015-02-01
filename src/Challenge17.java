@@ -1,4 +1,5 @@
 // Ayman Alghamdi
+//OK. Ozgur Aktunc
 public class Challenge17 {
 	public static void main(String[] args) {
 
